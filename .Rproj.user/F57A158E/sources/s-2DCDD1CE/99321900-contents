@@ -1,0 +1,136 @@
+BasicInfo:
+  FirstName: Shaan
+  LastName: Aucharagram
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +44 7491 671 806
+    - Icon: fas fa-envelope
+      Info: info@shaanaucharagram.com
+    - Icon: fas fa-globe
+      Info: www.shaanaucharagram.com
+    - Icon: fas fa-map-marker-alt
+      Info: London
+
+Profile: Currently a Data Science Degree Apprentice at Santander UK. Interests include NLP, data viz and applying machine learning techniques to discover hidden insights. Possesses strong domain knowledge within corporate finance and highly skilled in stakeholder management with proven experience up to C-suite.
+
+Experience:
+  - Employer: Santander UK
+    Place: London, UK
+    Positions:
+      - Title: Data Science Degree Apprentice
+        Date: Sep 2019 - Present
+        Details:
+          - Rotational degree scheme, gaining a BSc (Hons) in Data Science whilst working as a Data Scientist across various teams within the bank, rotations include Financial Crime and Core Data Science.
+          - Liaising with stakeholders up to executive level, presenting Entity Resolution to a director and justifying the business value of the tool.
+          - Customer segmentation using PCA and K-Means Clustering in Python to provide insights into the banks CCB portfolio of £20Bn.
+          - Developing Entity Resolution, to retrieve companies house information using APIs and perform ETL within the bank's data lake to remediate outdated information.
+          - Exposure to a range of software engineering best practises including git for version control, CI/CD, issue tracking, unit/integration/functional testing and agile project methodologies.
+          - Natural Language Processing and sentiment analysis using Python Packages such as spaCy and NLTK for chatbot optimization.
+          - Developing and presenting the Mortgage Churn Dashboard made using Python packages Plotly Dash, allowing stakeholders to discover hidden insights into the mortgage portfolio.
+          - Utilising SQL, to provide the government with an overview of the 70,000 bounce back loan scheme applications worth £1.3Bn that were provided by the bank during COVID-19.
+          - Automating code within the bank for other developers by creating internal python packages, helping improve efficiency.
+        Badges: ['Python', 'SQL', 'Hadoop', 'Unix', 'Agile', 'Git', 'Stakeholder Management']
+
+  - Employer: Suneeta London
+    Place: London, UK
+    Positions:
+      - Title: CTO
+        Date: Jan 2017 - Sep 2019
+        Details:
+          - Managing the development of the Suneeta London website www.suneetalondon.co.uk and the respective CBD website www.suneetacbd.co.uk, whilst ensuring that we complied with legislation for the CBD website.
+          - Attending a variety of events and acting on the companies behalf, most notable collaboration was being invited to the HQ of ASOS.   
+        Badges: ['R', 'HTML', 'CSS', 'Git' ]
+
+        
+  #     - Title: Software Tester
+  #       Date: Mar 2019 - Jan 2020
+  #       Details:
+  #         - Nisl tincidunt eget nullam non nisi est
+  #         - Sed viverra tellus in hac.
+  #         - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #       Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+  # - Employer: Another super cool company
+  #   Place: Lisbon, PT
+  #   Positions:
+  #     - Title: Flow Cytometry Resource Specialist
+  #       Date: Jan 2018 - Mar 2019
+  #       Details:
+  #         - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  #         - Nisl tincidunt eget nullam non nisi est
+  #         - Sed viverra tellus in hac.
+  #         - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #       Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+  # - Employer: Institute of Neural Engineering
+  #   Place: Graz, AT
+  #   Positions:
+  #     - Title: Master's Thesis Research Intern
+  #       Date: Oct 2016 - Jun 2017
+  #       Details:
+  #         - Arcu vitae elementum curabitur vitae nunc sed velit
+  #         - Viverra aliquet eget sit amet tellus cras adipiscing
+  #         - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  #         - Nisl tincidunt eget nullam non nisi est
+  #       Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+
+Education:
+  - Course: BSc (Hons) in Data Science
+    Place: Nottingham Trent University
+    Date: March 2021 - March 2014
+    Details: Undergraduate Degree Within Data Science in parallel to full time Data Science role at Santander. Engaged with MPs about apprenticeships and spoke at conferences as an ambassador for apprenticeships.
+  - Course: BTEC Computing(D*), A Levels Media Studies(A), Mathematics(C)
+    Place: Reigate Sixth Form College
+    Date: Sep 2017 - July 2019
+    Details: Principals Award in Computing for Outstanding Achievement (winner from 40 Students), Best Television Script (winner from 120 students).
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - R
+      - SQL
+      - C++
+      - HTML  
+      - CSS
+      - Unix (Bash)
+      - Hadoop
+      - Impala
+      - HQL
+  - Family: Machine Learning
+    Items:
+      - tensorflow
+      - sklearn
+  - Family: Data Viz
+    Items:
+      - Plotly
+      - Dash
+      - Shiny
+      - Tableau
+  - Family: Natural Language Processing
+    Items:
+      - spaCy
+      - NLTK
+      - textblob
+      - keras
+  - Family: Developer Tools
+    Items:
+      - Git
+      - GitHub/GitLab
+      - Cloudera
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - Markdown
+Diplomas:
+  - Neural Networks and Deep Learning by Coursera
+  - Machine Learning by Coursea
+  - Data Scientist with Python by DataCamp
+  - AWS Technical Essentials
+
+Interests:
+  - Finance
+  - Investing 
+  - AI
+  - Gaming
+  - Football
+  - Tennis
+
