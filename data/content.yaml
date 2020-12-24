@@ -4,11 +4,13 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 7491 671 806
+      Info: +44 (0)7491 671 806
     - Icon: fas fa-envelope
       Info: info@shaanaucharagram.com
     - Icon: fas fa-globe
       Info: www.shaanaucharagram.com
+    - Icon: fab fa-github
+      Info: www.github.com/ShaanAu
     - Icon: fas fa-map-marker-alt
       Info: London
 
@@ -21,16 +23,16 @@ Experience:
       - Title: Data Science Degree Apprentice
         Date: Sep 2019 - Present
         Details:
-          - Rotational degree scheme, gaining a BSc (Hons) in Data Science whilst working as a Data Scientist across various teams within the bank, rotations include Financial Crime and Core Data Science.
+          - Rotational degree scheme, gaining a BSc (Hons) in Data Science whilst working as a data scientist across various teams within the bank, rotations include FinCrime Analytics and Core Data Science.
+          - Developing Entity Resolution, to retrieve companies house information using APIs and perform Python-based ETL within the bank's data lake to remediate outdated information, predicted savings of up to £2M.
           - Liaising with stakeholders up to executive level, presenting Entity Resolution to a director and justifying the business value of the tool.
-          - Customer segmentation using PCA and K-Means Clustering in Python to provide insights into the banks CCB portfolio of £20Bn.
-          - Developing Entity Resolution, to retrieve companies house information using APIs and perform ETL within the bank's data lake to remediate outdated information.
-          - Exposure to a range of software engineering best practises including git for version control, CI/CD, issue tracking, unit/integration/functional testing and agile project methodologies.
-          - Natural Language Processing and sentiment analysis using Python Packages such as spaCy and NLTK for chatbot optimization.
-          - Developing and presenting the Mortgage Churn Dashboard made using Python packages Plotly Dash, allowing stakeholders to discover hidden insights into the mortgage portfolio.
           - Utilising SQL, to provide the government with an overview of the 70,000 bounce back loan scheme applications worth £1.3Bn that were provided by the bank during COVID-19.
-          - Automating code within the bank for other developers by creating internal python packages, helping improve efficiency.
-        Badges: ['Python', 'SQL', 'Hadoop', 'Unix', 'Agile', 'Git', 'Stakeholder Management']
+          - Customer segmentation using PCA and K-Means Clustering in Python to provide insights into the banks CCB portfolio of £20Bn.
+          - Natural language processing and sentiment analysis using Python packages such as spaCy and NLTK for chatbot optimization.
+          - Developing and presenting the Mortgage Churn Dashboard made using Python packages Plotly Dash, allowing stakeholders to discover hidden insights into the mortgage portfolio and offer better rates to identified customers.
+          - Exposure to a range of software engineering best practises including git for version control, CI/CD, issue tracking, unit/integration/functional testing and agile project methodologies.
+          - Automating code within the bank for other developers by creating internal Python packages, allowing developers to be more productive, by approximately 15%.
+        Badges: ['Python', 'SQL', 'Hadoop', 'Unix', 'Agile', 'Git', 'Stakeholder Management', 'Impala', 'Hive', 'Cloudera', 'NLP', 'Machine Learning', 'ETL', 'Data Viz']
 
   - Employer: Suneeta London
     Place: London, UK
@@ -77,7 +79,11 @@ Education:
   - Course: BSc (Hons) in Data Science
     Place: Nottingham Trent University
     Date: March 2021 - March 2014
-    Details: Undergraduate Degree Within Data Science in parallel to full time Data Science role at Santander. Engaged with MPs about apprenticeships and spoke at conferences as an ambassador for apprenticeships.
+    Details: Undergraduate Degree Within Data Science in parallel to full time Data Science role at Santander. 
+  - Course: Level 4 Data Analyst
+    Place: Whitehat
+    Date: Sep 2019 - January 2020
+    Details: Public speaking at various events, engaging with MPs about apprenticeships and being an ambassador to 50+ aspiring technologists at REflect 2020.
   - Course: BTEC Computing(D*), A Levels Media Studies(A), Mathematics(C)
     Place: Reigate Sixth Form College
     Date: Sep 2017 - July 2019
@@ -94,11 +100,11 @@ Skills:
       - Unix (Bash)
       - Hadoop
       - Impala
-      - HQL
+      - Hive (HQL)
   - Family: Machine Learning
     Items:
-      - tensorflow
-      - sklearn
+      - Tensorflow
+      - Sklearn
   - Family: Data Viz
     Items:
       - Plotly
@@ -107,10 +113,10 @@ Skills:
       - Tableau
   - Family: Natural Language Processing
     Items:
-      - spaCy
+      - SpaCy
       - NLTK
-      - textblob
-      - keras
+      - Textblob
+      - Keras
   - Family: Developer Tools
     Items:
       - Git
@@ -129,8 +135,9 @@ Diplomas:
 Interests:
   - Finance
   - Investing 
-  - AI
+  - Programming AI/ML
   - Gaming
   - Football
   - Tennis
+  - Volunteering
 
